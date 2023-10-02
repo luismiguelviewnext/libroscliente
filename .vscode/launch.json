@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LibrosclienteApplication<libroscliente>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.curso.libroscliente.LibrosclienteApplication",
+            "projectName": "libroscliente",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

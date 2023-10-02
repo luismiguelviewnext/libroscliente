@@ -1,0 +1,5 @@
+com\curso\service\EjemplaresServiceImpl.class
+com\curso\libroscliente\LibrosclienteApplication.class
+com\curso\model\Ejemplar.class
+com\curso\controller\EjemplaresController.class
+com\curso\service\EjemplaresService.class
